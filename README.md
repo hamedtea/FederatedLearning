@@ -12,6 +12,7 @@ Integrator class object is a relatively a light CNN that received the prediciton
 Since the initial phase of predicition is random, you should expect to watch slightly different accuracy and prediction performance. 
 
 #THIS PROJECT IS ONGOING#
+#TAKE A LOOK AT JPG files#
 
 
 
